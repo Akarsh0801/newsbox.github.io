@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "The Moscow Times",
+        "title": "Blinken Eyes U.S. Inroads in Central Asia as Ukraine Rattles Nerves - The Moscow Times",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnRoZW1vc2Nvd3RpbWVzLmNvbS8yMDIzLzAyLzI4L2JsaW5rZW4tZXllcy11cy1pbnJvYWRzLWluLWNlbnRyYWwtYXNpYS1hcy11a3JhaW5lLXJhdHRsZXMtbmVydmVzLWE4MDM1OdIBAA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-03-01T07:04:04Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "CNN",
+        "title": "Bola Ahmed Tinubu elected Nigeria's president as opposition calls for new polls - CNN",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wMi8yOC9hZnJpY2EvbmlnZXJpYS1wcmVzaWRlbnRpYWwtZWxlY3Rpb24tcmVzdWx0LWludGwtaG5rL2luZGV4Lmh0bWzSAWJodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDIzLzAyLzI4L2FmcmljYS9uaWdlcmlhLXByZXNpZGVudGlhbC1lbGVjdGlvbi1yZXN1bHQtaW50bC1obmsvaW5kZXguaHRtbA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-03-01T06:20:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "Reuters",
+        "title": "Stocks jump as China's factories roar back from COVID - Reuters",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvZ2xvYmFsLW1hcmtldHMtd3JhcHVwLTEtMjAyMy0wMy0wMS_SAQA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-03-01T06:15:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "The Associated Press",
+        "title": "As court debates student loans, borrowers see disconnect - The Associated Press",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3N0dWRlbnQtbG9hbi1mb3JnaXZlbmVzcy1zdXByZW1lLWNvdXJ0LXBheW1lbnRzLTUxZWYwODczNTVmMDQ1MjYwYzM3YWU2ZmM2OThiMzhk0gEA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-03-01T05:11:24Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "CNN",
+        "title": "FBI Director Wray acknowledges bureau assessment that Covid-19 likely resulted from lab incident - CNN",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wMi8yOC9wb2xpdGljcy93cmF5LWZiaS1jb3ZpZC1vcmlnaW5zLWxhYi1jaGluYS9pbmRleC5odG1s0gFXaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyMy8wMi8yOC9wb2xpdGljcy93cmF5LWZiaS1jb3ZpZC1vcmlnaW5zLWxhYi1jaGluYS9pbmRleC5odG1s?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-03-01T04:44:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "News-Medical.Net",
+        "title": "Evidence that cross-reactive immunity from common human coronaviruses can influence response to SARS-CoV-2 - News-Medical.Net",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMimgFodHRwczovL3d3dy5uZXdzLW1lZGljYWwubmV0L25ld3MvMjAyMzAyMjgvRXZpZGVuY2UtdGhhdC1jcm9zcy1yZWFjdGl2ZS1pbW11bml0eS1mcm9tLWNvbW1vbi1odW1hbi1jb3JvbmF2aXJ1c2VzLWNhbi1pbmZsdWVuY2UtcmVzcG9uc2UtdG8tU0FSUy1Db1YtMi5hc3B40gGeAWh0dHBzOi8vd3d3Lm5ld3MtbWVkaWNhbC5uZXQvYW1wL25ld3MvMjAyMzAyMjgvRXZpZGVuY2UtdGhhdC1jcm9zcy1yZWFjdGl2ZS1pbW11bml0eS1mcm9tLWNvbW1vbi1odW1hbi1jb3JvbmF2aXJ1c2VzLWNhbi1pbmZsdWVuY2UtcmVzcG9uc2UtdG8tU0FSUy1Db1YtMi5hc3B4?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-03-01T04:35:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "The New York Times",
+        "title": "Chicago Mayor Election Results 2023 - The New York Times",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2ludGVyYWN0aXZlLzIwMjMvMDIvMjgvdXMvZWxlY3Rpb25zL3Jlc3VsdHMtY2hpY2Fnby1tYXlvci5odG1s0gEA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-03-01T04:33:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "NBC Sports",
+        "title": "Brian Gutekunst: Jordan Love is ready to play, and he needs to play - ProFootballTalk - NBC Sports",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vcHJvZm9vdGJhbGx0YWxrLm5iY3Nwb3J0cy5jb20vMjAyMy8wMi8yOC9icmlhbi1ndXRla3Vuc3Qtam9yZGFuLWxvdmUtaXMtcmVhZHktdG8tcGxheS1hbmQtaGUtbmVlZHMtdG8tcGxheS_SAQA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-03-01T04:10:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "Reuters",
+        "title": "Russians intensify assault on Bakhmut, Ukrainian forces try to dig in - Reuters",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2V1cm9wZS9ydXNzaWFucy1pbnRlbnNpZnktYXNzYXVsdC1iYWtobXV0LXVrcmFpbmlhbi1mb3JjZXMtdHJ5LWRpZy0yMDIzLTAzLTAxL9IBAA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-03-01T03:56:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "BBC",
+        "title": "LA agrees to pay Kobe Bryant widow almost $29m - BBC",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC11cy1jYW5hZGEtNjQ4MDY5MDXSATVodHRwczovL3d3dy5iYmMuY29tL25ld3Mvd29ybGQtdXMtY2FuYWRhLTY0ODA2OTA1LmFtcA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-03-01T03:46:33Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "BBC",
+        "title": "Carnage after trains collide near Greek city of Larissa - BBC",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1ldXJvcGUtNjQ4MDY2NzjSATJodHRwczovL3d3dy5iYmMuY29tL25ld3Mvd29ybGQtZXVyb3BlLTY0ODA2Njc4LmFtcA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-03-01T02:36:56Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "Entertainment Tonight",
+        "title": "Tom Sizemore's Family Deciding 'End of Life Matters' - Entertainment Tonight",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CCAiC1FaakNxc2VURkNRmAEB?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-03-01T02:00:10Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "Ars Technica",
+        "title": "Google adds client-side encryption to Gmail and Calendar. Should you care? - Ars Technica",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMigAFodHRwczovL2Fyc3RlY2huaWNhLmNvbS9pbmZvcm1hdGlvbi10ZWNobm9sb2d5LzIwMjMvMDIvZ29vZ2xlLWFkZHMtY2xpZW50LXNpZGUtZW5jcnlwdGlvbi10by1nbWFpbC1hbmQtY2FsZW5kYXItc2hvdWxkLXlvdS1jYXJlL9IBhAFodHRwczovL2Fyc3RlY2huaWNhLmNvbS9pbmZvcm1hdGlvbi10ZWNobm9sb2d5LzIwMjMvMDIvZ29vZ2xlLWFkZHMtY2xpZW50LXNpZGUtZW5jcnlwdGlvbi10by1nbWFpbC1hbmQtY2FsZW5kYXItc2hvdWxkLXlvdS1jYXJlL2FtcC8?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-03-01T01:22:55Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "Fox News",
+        "title": "Chaos breaks out after anti-war protestors booted from House China Committee hearing - Fox News",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2NoYW9zLWJyZWFrcy1vdXQtYWZ0ZXItYW50aS13YXItcHJvdGVzdG9ycy1ib290ZWQtZnJvbS1ob3VzZS1jaGluYS1jb21taXR0ZWUtaGVhcmluZ9IBeWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2NoYW9zLWJyZWFrcy1vdXQtYWZ0ZXItYW50aS13YXItcHJvdGVzdG9ycy1ib290ZWQtZnJvbS1ob3VzZS1jaGluYS1jb21taXR0ZWUtaGVhcmluZy5hbXA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-03-01T00:45:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "CNBC",
+        "title": "Stock futures slip after investors wrap up a losing February: Live updates - CNBC",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMDIvMjgvc3RvY2stbWFya2V0LXRvZGF5LWxpdmUtdXBkYXRlcy5odG1s0gFIaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjMvMDIvMjgvc3RvY2stbWFya2V0LXRvZGF5LWxpdmUtdXBkYXRlcy5odG1s?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-02-28T23:59:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "USA TODAY",
+        "title": "Ukraine war updates: Putin issues alert after drones hit Russia - USA TODAY",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL3dvcmxkLzIwMjMvMDIvMjgvdWtyYWluZS1ydXNzaWEtd2FyLWxpdmUtdXBkYXRlcy8xMTM2Mzk5MTAwMi_SAQA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-02-28T23:53:51Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "Greenville News",
+        "title": "Murdaugh trial live stream, updates: State calling rebuttal witnesses - Greenville News",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMilQFodHRwczovL3d3dy5ncmVlbnZpbGxlb25saW5lLmNvbS9zdG9yeS9uZXdzL2NyaW1lLzIwMjMvMDIvMjgvYWxleC1tdXJkYXVnaC10cmlhbC1saXZlLXN0cmVhbS11cGRhdGVzLXN0YXRlLXRvLWNhbGwtcmVidXR0YWwtd2l0bmVzc2VzLXNjLzY5OTUyNzkzMDA3L9IBAA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-02-28T23:37:02Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "The Washington Post",
+        "title": "Walking 11 minutes a day lowers early death and health risks, study shows - The Washington Post",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS93ZWxsbmVzcy8yMDIzLzAyLzI4L2RhaWx5LWV4ZXJjaXNlLWxvbmdldml0eS13YWxraW5nLTExLW1pbnV0ZXMv0gEA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-02-28T23:33:59Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "Deadline",
+        "title": "‘Creed III’ Eyeing Franchise Title 3-Day Record Debut Of $38M-$40M – Box Office - Deadline",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjMvMDIvYm94LW9mZmljZS1jcmVlZC1paWktbWljaGFlbC1iLWpvcmRhbi0xMjM1Mjc1MDA2L9IBUmh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjMvMDIvYm94LW9mZmljZS1jcmVlZC1paWktbWljaGFlbC1iLWpvcmRhbi0xMjM1Mjc1MDA2L2FtcC8?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-02-28T23:30:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "The Hill",
+        "title": "Lukashenko arrives in Beijing as concerns rise around China-Russia relations - The Hill",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vdGhlaGlsbC5jb20vcG9saWN5L2ludGVybmF0aW9uYWwvMzg3ODE2Ny1sdWthc2hlbmtvLWFycml2ZXMtaW4tYmVpamluZy1hcy1jb25jZXJucy1yaXNlLWFyb3VuZC1jaGluYS1ydXNzaWEtcmVsYXRpb25zL9IBggFodHRwczovL3RoZWhpbGwuY29tL3BvbGljeS9pbnRlcm5hdGlvbmFsLzM4NzgxNjctbHVrYXNoZW5rby1hcnJpdmVzLWluLWJlaWppbmctYXMtY29uY2VybnMtcmlzZS1hcm91bmQtY2hpbmEtcnVzc2lhLXJlbGF0aW9ucy9hbXAv?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-02-28T23:12:00Z",
+        "content": null
+      }
+    ]
+  }
