@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.c64b2af1.css",
-    "main.js": "/static/js/main.c59fb831.js",
-    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/index.html",
-    "main.c64b2af1.css.map": "/static/css/main.c64b2af1.css.map",
-    "main.c59fb831.js.map": "/static/js/main.c59fb831.js.map",
-    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/newsbox.github.io/static/css/main.c64b2af1.css",
+    "main.js": "/newsbox.github.io/static/js/main.5bddcbd0.js",
+    "static/js/787.28cb0dcd.chunk.js": "/newsbox.github.io/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/newsbox.github.io/index.html",
+    "main.c64b2af1.css.map": "/newsbox.github.io/static/css/main.c64b2af1.css.map",
+    "main.5bddcbd0.js.map": "/newsbox.github.io/static/js/main.5bddcbd0.js.map",
+    "787.28cb0dcd.chunk.js.map": "/newsbox.github.io/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c64b2af1.css",
-    "static/js/main.c59fb831.js"
+    "static/js/main.5bddcbd0.js"
   ]
 }
