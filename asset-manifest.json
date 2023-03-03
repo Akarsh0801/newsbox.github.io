@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/newsbox.github.io/static/css/main.87453e97.css",
-    "main.js": "/newsbox.github.io/static/js/main.8201288b.js",
+    "main.css": "/newsbox.github.io/static/css/main.78da5b94.css",
+    "main.js": "/newsbox.github.io/static/js/main.6fb9c731.js",
     "static/js/787.28cb0dcd.chunk.js": "/newsbox.github.io/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/newsbox.github.io/index.html",
-    "main.87453e97.css.map": "/newsbox.github.io/static/css/main.87453e97.css.map",
-    "main.8201288b.js.map": "/newsbox.github.io/static/js/main.8201288b.js.map",
+    "main.78da5b94.css.map": "/newsbox.github.io/static/css/main.78da5b94.css.map",
+    "main.6fb9c731.js.map": "/newsbox.github.io/static/js/main.6fb9c731.js.map",
     "787.28cb0dcd.chunk.js.map": "/newsbox.github.io/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.87453e97.css",
-    "static/js/main.8201288b.js"
+    "static/css/main.78da5b94.css",
+    "static/js/main.6fb9c731.js"
   ]
 }
